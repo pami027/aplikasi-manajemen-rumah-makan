@@ -1,7 +1,7 @@
 ## Entity-Relationship Diagram (ERD) - Aplikasi Manajemen Rumah Makan
 
 - **Versi**: 1.0
-- **Tanggal**: 27 Mei 2025
+- **Tanggal**: 17 September 2025
 - **Penyusun**: Muhamad Azkal Fahmi Yahya_221240001336 dan Khaf Sari Inayati_221240001228
 
 ### Konvensi
@@ -174,4 +174,5 @@ erDiagram
   - quantity_sold: Jumlah item yang terjual.
   - price_at_sale: Harga jual item saat transaksi.
   - cost_price_total_for_items: Total HPP untuk item ini dalam transaksi.
+
   - subtotal_revenue: quantity_sold * price_at_sale.
