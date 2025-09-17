@@ -1,7 +1,7 @@
 ## Software Requirements Specification (SRS) - Aplikasi SaaS Manajemen Rumah Makan (Flutter, SQL Lokal, Multi-Restoran/Single-User per Restoran) - MVP Ramping
 
 - **Versi**: 10.1 
-- **Tanggal**: 28 Mei 2025
+- **Tanggal**: 17 September 2025
 - **Penyusun**: Muhamad Azkal Fahmi Yahya_221240001336 dan Khaf Sari Inayati_221240001228
 
 ### 1. Pendahuluan
@@ -265,4 +265,5 @@ graph TD
     K --> L[Update stok bahan baku dari resep]
     L --> M[Cetak Struk]
     M --> N[Transaksi Selesai]
+
 ```
