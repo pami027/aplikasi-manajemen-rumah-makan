@@ -1,7 +1,7 @@
 ## System Design Document (SDD) - Aplikasi Manajemen Rumah Makan (MVP)
 
 - **Versi**: 1.0
-- **Tanggal**: 28 Mei 2025
+- **Tanggal**: 17 September 2025
 - **Penyusun**: Muhamad Azkal Fahmi Yahya_221240001336 dan Khaf Sari Inayati_221240001228
 
 ### 1. Pendahuluan
@@ -221,4 +221,5 @@ Performance Testing: Menguji beban kerja sistem pada jumlah pengguna/transaksi t
 Security Testing: Penetration testing dasar (opsional untuk MVP).
 
 ### 8. Rencana Pengembangan Selanjutnya (Pasca-MVP)
+
 (Bagian ini akan sama dengan SRS sebelumnya, fokus pada fitur-fitur yang akan ditambahkan setelah MVP berhasil divalidasi dan di-deploy).
