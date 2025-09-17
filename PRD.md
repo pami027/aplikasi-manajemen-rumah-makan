@@ -1,7 +1,7 @@
 ## Product Requirements Document (PRD) - Aplikasi Manajemen Rumah Makan (MVP)
 
 - **Versi**: 1.0
-- **Tanggal**: 27 Mei 2025
+- **Tanggal**: 17 September 2025
 - **Penyusun**: Muhamad Azkal Fahmi Yahya_221240001336 dan Khaf Sari Inayati_221240001228
 
 ### 1. Pendahuluan
@@ -111,3 +111,4 @@ MVP fokus pada 6 alur kerja inti dengan dukungan database SQL lokal per restoran
 - **Target Rilis**: [Tanggal Target - Misal: Q4 2025]
 - **Metodologi**: Agile (Sprint-based)
 - **Fokus**: Validasi pasar, kumpulkan umpan balik, stabilitas sistem inti.
+
