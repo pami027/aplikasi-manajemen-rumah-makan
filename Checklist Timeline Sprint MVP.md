@@ -1,7 +1,7 @@
 ## Checklist Timeline Sprint MVP - Aplikasi Manajemen Rumah Makan (SQL Lokal)
 
 - **Versi**: 1.0
-- **Tanggal**: 28 Mei 2025
+- **Tanggal**: 17 September 2025
 - **Penyusun**: Muhamad Azkal Fahmi Yahya_221240001336 dan Khaf Sari Inayati_221240001228
 
 ### Metodologi
@@ -156,3 +156,4 @@
 - [ ] Deployment MVP ke lingkungan produksi.
 - [ ] Pengumpulan umpan balik dari pengguna awal.
 - [ ] Perencanaan fitur-fitur tambahan untuk sprint berikutnya berdasarkan PRD dan "Rencana Pengembangan Berikutnya" di SRS.
+
